@@ -3,14 +3,14 @@
   <parent>
     <groupId>com.amicos</groupId>
     <artifactId>whether</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
   </parent>
   <artifactId>forcast-client</artifactId>
   <dependencies>
   	<dependency>
   		<groupId>com.amicos</groupId>
   		<artifactId>forcast-server</artifactId>
-  		<version>0.0.1</version>
+  		<version>0.0.2-SNAPSHOT</version>
   	</dependency>
   </dependencies>
 </project>
